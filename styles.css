@@ -22,12 +22,26 @@ img {
 }
 
 .Descrição {
+ 
     float: right;
     padding: 1% 30% 5%;
     text-align: center;    
 }
 .ListaDeHabilidades {
-    text-align: center;
+   
+    padding: 1% 20% 5%;
+    float: left;
+    text-align: left;
+    padding-right: 1%;
+    
+}
+
+.Tenis {
+    float: right;
+    width: 230px;
+    border-radius: 0%;
+    margin-right: -10%;
+   
 }
 
 .end {
