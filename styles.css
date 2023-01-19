@@ -1,4 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    background-color: rgb(212, 212, 204);
+}
 
 h1 {
     color: rgb(3, 71, 15);
@@ -22,17 +29,17 @@ img {
 }
 
 .Descrição {
- 
+    
     float: right;
     padding: 1% 30% 5%;
     text-align: center;    
 }
 .ListaDeHabilidades {
-   
-    padding: 1% 20% 5%;
+ 
     float: left;
+    padding: 1% 20% 5%;
     text-align: left;
-    padding-right: 1%;
+    
     
 }
 
@@ -40,10 +47,18 @@ img {
     float: right;
     width: 230px;
     border-radius: 0%;
-    margin-right: -10%;
+    margin-right: -15%;
+
+    
    
 }
 
 .end {
-    padding: 10%;
+    padding: 10% 1% 1% 1%;
+    text-align: center;
+}
+
+.foot {
+    padding: 10% 1% 1% 1%;
+    text-align: center;
 }
